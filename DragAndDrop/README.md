@@ -14,3 +14,4 @@ States:
 The Draggable Card: The item currently in motion.
 The Active Target: An empty slot that is currently being hovered over.
 The Empty Slot: A placeholder designed to receive new content.
+
